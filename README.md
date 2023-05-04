@@ -4,7 +4,7 @@ This is a short description
 ## Subtitle
 ### Smaller font
 
-**bold some text***
+*bold some text*
 *make italics*
 
 - this 
@@ -21,4 +21,4 @@ Table	| Syntax | Description |
 # here is some code
 ```
 
-Amazing job! :smile:
+amazing job! :smile:
